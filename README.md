@@ -1,5 +1,5 @@
 # Projet d'école: Fouille de texte
-Résumer automatiquement une oeuvre littéraire
+Résumer automatiquement une oeuvre littéraire. Nous prendrons comme exemple d'application le livre Dune de Frank Herbert. Pour des raisons de droit d'auteur, il n'est pas possible de le mettre en ligne sur ce repository.
 
 ## Contexte
 Ce projet de groupe s'inscrit dans le cadre d'une évaluation du cours de "Text Mining" du Master 2 Data Mining. Ce projet a été réalisé par Julien Mirval et Pierre Prablanc.

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# cannot be added due to copyright
+Frank Herbert - Dune.txt
+
+# Original project description
+projetTM2018.pdf
